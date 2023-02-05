@@ -33,20 +33,17 @@ const Home = () => {
         <div>
           <h1>Who we are?</h1>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis
-            officiis hic illo quos sit commodi, aut magnam odio eligendi? Totam
-            quis officiis fugit sunt dolores nostrum tenetur iusto est odio
-            mollitia. Dolor placeat repellendus officia aspernatur dolorum
-            harum. Dolorem cumque quaerat eius qui deserunt ullam laudantium
-            quia tempore. Dignissimos esse sequi numquam est ipsam nemo,
-            voluptas vel recusandae iste aspernatur qui quasi, commodi, atque
-            ipsa dolores tempore asperiores? Dolores soluta placeat molestiae
-            aperiam, ullam officia fugiat corrupti odio, suscipit ipsum cum vel
-            nemo. Ratione quo tempore fugit quaerat! Facilis beatae impedit
-            similique maxime praesentium sunt unde necessitatibus voluptates
-            ipsa, et, numquam reiciendis eveniet? Aliquid nemo nesciunt placeat,
-            qui fuga quae repellat sunt, non natus, iure ab officia rem ipsa cum
-            sed cumque corporis voluptate quibusdam nostrum quod saepe
+            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Expedita
+            officiis aliquid quia qui ratione quo veritatis praesentium quod.
+            Corrupti, voluptatem. Totam dolor nulla quod incidunt architecto quo
+            provident harum sequi ipsa ducimus tenetur veritatis id blanditiis,
+            aliquam ut laborum excepturi repudiandae veniam numquam animi
+            recusandae mollitia maxime odit. Eaque hic cum quaerat perferendis
+            placeat autem, incidunt sapiente, perspiciatis quas delectus
+            voluptatum. Fuga atque, veniam corporis impedit natus accusantium
+            unde ipsam expedita voluptates repellendus quaerat cupiditate
+            incidunt at laboriosam inventore amet iste eligendi excepturi,
+            quibusdam aspernatur. Facere, eligendi.
           </p>
         </div>
       </div>
